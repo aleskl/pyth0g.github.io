@@ -62,19 +62,19 @@ li a {
 a:link {
     color: green;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:visited {
     color: green;
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:hover {
     color: rgb(228, 76, 32);
     background-color: transparent;
-    text-decoration: underline;
+    text-decoration: bold;
 }
 
 .indent {
